@@ -1,0 +1,2 @@
+(deftemplate HayMasCartasDeOtrosJugadores
+(field valor))

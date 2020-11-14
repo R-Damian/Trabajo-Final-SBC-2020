@@ -1,0 +1,2 @@
+(deftemplate CambioConteoHiLo
+(field cantidad))

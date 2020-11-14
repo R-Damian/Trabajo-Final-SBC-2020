@@ -1,0 +1,2 @@
+(deftemplate Ronda
+(field jugar))

@@ -1,0 +1,2 @@
+(deftemplate Juego
+(field contadorHiLo))

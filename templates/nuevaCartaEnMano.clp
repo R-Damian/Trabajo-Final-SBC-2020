@@ -1,0 +1,2 @@
+(deftemplate NuevaCartaEnMano
+(field valor))

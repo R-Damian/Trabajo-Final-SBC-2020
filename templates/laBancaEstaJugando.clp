@@ -1,0 +1,2 @@
+(deftemplate LaBancaEstaJugando
+(field valor))
